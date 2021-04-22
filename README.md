@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software engineer working at Citrus Informatis.
+I am a software engineer working at Citrus Informatics.
 
 <!--
 **mpjijo/mpjijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
