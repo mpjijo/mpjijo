@@ -1,6 +1,9 @@
 ### Hi there 👋
 I am a software engineer working at Citrus Informatics.
 
+###Overview:
+As a software engineer at Citrus Informatics, you are part of a team that designs, develops, and maintains software applications and systems. Your role involves solving complex technical problems, writing efficient code, and collaborating with other engineers and stakeholders to deliver high-quality software products.
+
 <!--
 **mpjijo/mpjijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
